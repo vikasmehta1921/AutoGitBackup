@@ -28,7 +28,7 @@ st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
-#MainMenu { visibility: hidden; } footer { visibility: hidden; } header { visibility: hidden; }
+#MainMenu { visibility: hidden; } footer { visibility: hidden; }
 section[data-testid="stSidebar"] { background:linear-gradient(180deg,#0d1b2a,#1a2744); border-right:1px solid #243354; }
 section[data-testid="stSidebar"] * { color:#c8d6f0 !important; }
 .info-box { background:linear-gradient(135deg,#141e30,#1c2d4a); border:1px solid #2a3f63; border-left:4px solid #4f8ef7; border-radius:8px; padding:16px 20px; margin:10px 0; }

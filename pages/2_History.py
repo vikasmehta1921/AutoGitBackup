@@ -32,7 +32,7 @@ st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
-#MainMenu { visibility: hidden; } footer { visibility: hidden; } header { visibility: hidden; }
+#MainMenu { visibility: hidden; } footer { visibility: hidden; }
 section[data-testid="stSidebar"] { background: linear-gradient(180deg,#0d1b2a 0%,#1a2744 100%); border-right:1px solid #243354; }
 section[data-testid="stSidebar"] * { color: #c8d6f0 !important; }
 .badge { display:inline-block; padding:3px 12px; border-radius:20px; font-size:0.78rem; font-weight:600; letter-spacing:0.05em; }

@@ -46,7 +46,6 @@ html, body, [class*="css"] {
 /* ── Hide default Streamlit elements ── */
 #MainMenu { visibility: hidden; }
 footer { visibility: hidden; }
-header { visibility: hidden; }
 
 /* ── Sidebar ── */
 section[data-testid="stSidebar"] {
