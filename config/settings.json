@@ -1,0 +1,21 @@
+{
+  "watch_folder": "C:\\Assignments",
+  "repo_url": "",
+  "branch": "main",
+  "backup_time": "23:00",
+  "task_name": "Assignment Auto Backup",
+  "commit_message_template": "Vikas - Daily Backup - {date}",
+  "ignore_patterns": [
+    "*.tmp",
+    "~$*",
+    "*.swp",
+    "*.bak",
+    "Thumbs.db",
+    ".DS_Store",
+    "desktop.ini",
+    "__pycache__"
+  ],
+  "email_notifications": false,
+  "desktop_notifications": true,
+  "multiple_repos": []
+}
